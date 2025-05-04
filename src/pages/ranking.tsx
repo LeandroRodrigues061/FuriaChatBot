@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Header from "../../components/Header01";
 import { collection, getDocs, query, orderBy } from "firebase/firestore";
-import { db } from "../pages/firebaseConfig";
+import { db } from "../libs/firebaseConfig";
 import Head from 'next/head';
 
 type RankingEntry = {

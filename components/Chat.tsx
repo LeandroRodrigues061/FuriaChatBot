@@ -4,7 +4,7 @@ import ChatBubble from "./ChatBubble";
 import Link from "next/link";
 import Header from "./Header01";
 import { collection, addDoc } from "firebase/firestore";
-import { db } from "../src/pages/firebaseConfig";
+import { db } from "../src/libs/firebaseConfig";
 
 type Message = {
   from: "bot" | "user";
