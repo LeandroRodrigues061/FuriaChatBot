@@ -24,7 +24,6 @@ Uma aplicação feita para fãs da FURIA! Um Quiz dinâmico, com tipos de nívei
 * [TypeScript] (Superset de JavaScript com tipagem estática)
 
 ## Como Rodar o Projeto Localmente
-Instruções para clonagem e execução do projeto localmente:
 
 1.  **Pré-requisitos:**
     * [Node.js](https://nodejs.org/)
@@ -97,8 +96,7 @@ Instruções para clonagem e execução do projeto localmente:
 
     Certifique-se de usar os nomes das chaves exatamente como mostrado acima e os valores correspondentes do seu projeto Firebase (em `Configurações do projeto` -> `Geral`).
 
-## Considerações de Design e Arquitetura (Opcional, mas Valioso)
-Você pode incluir uma seção breve sobre suas decisões de design e arquitetura:
+## Considerações de Design e Arquitetura
 
 Para esse projeto foi escolhido a tecnologia next.js pela facilidade e clareza de código com a utilização de componentes, e a tecnologia de TypeScript pela escalabilidade e facilidade de lidar com certos desafios com a proposta de projeto.
 Design e cores baseado na identificação visual da marca e organização FURIA, com tema mais escuro e logo de uma Pantera.
