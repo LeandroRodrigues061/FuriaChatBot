@@ -41,12 +41,6 @@ export const questions: {
     difficulty: "hard",
   },
   {
-    question: "Qual patrocinador já esteve associado à FURIA?",
-    correctAnswer: "Red Bull",
-    incorrectAnswers: ["Betway", "Nike", "G FUEL"],
-    difficulty: "easy",
-  },
-  {
     question: "Qual desses jogadores nunca jogou pela FURIA?",
     correctAnswer: "coldzera",
     incorrectAnswers: ["drop", "Honda", "ableJ"],
@@ -68,24 +62,6 @@ export const questions: {
     question: "Qual função o jogador saffee exerce na equipe?",
     correctAnswer: "AWPer",
     incorrectAnswers: ["Entry fragger", "Suporte", "Lurker"],
-    difficulty: "easy",
-  },
-  {
-    question: "Qual desses torneios a FURIA venceu em 2023?",
-    correctAnswer: "Nenhum",
-    incorrectAnswers: ["CBCS Masters", "ESL Challenger Melbourne", "IEM Dallas"],
-    difficulty: "hard",
-  },
-  {
-    question: "Em que cidade está localizada a gaming house da FURIA nos EUA?",
-    correctAnswer: "Fort Lauderdale",
-    incorrectAnswers: ["Miami", "Los Angeles", "Austin"],
-    difficulty: "hard",
-  },
-  {
-    question: "Quantos jogadores titulares compõem o time de CS:GO da FURIA?",
-    correctAnswer: "5",
-    incorrectAnswers: ["6", "7", "4"],
     difficulty: "easy",
   },
   {
@@ -119,12 +95,6 @@ export const questions: {
     difficulty: "easy",
   },
   {
-    question: "Qual plataforma a FURIA usa frequentemente para anunciar novidades?",
-    correctAnswer: "Twitter",
-    incorrectAnswers: ["Reddit", "Discord", "Telegram"],
-    difficulty: "easy",
-  },
-  {
     question: "Quem é o atual IGL (In-Game Leader) da FURIA?",
     correctAnswer: "arT",
     incorrectAnswers: ["KSCERATO", "Guerri", "yuurih"],
@@ -143,33 +113,9 @@ export const questions: {
     difficulty: "hard",
   },
   {
-    question: "Qual marca famosa já patrocinou os uniformes da FURIA?",
-    correctAnswer: "Puma",
-    incorrectAnswers: ["Nike", "New Era", "Adidas"],
-    difficulty: "hard",
-  },
-  {
-    question: "Qual é o nome da divisão de conteúdo criada pela FURIA?",
-    correctAnswer: "FURIA+",
-    incorrectAnswers: ["FURIA Studio", "FURIA Vision", "FURIA Lab"],
-    difficulty: "hard",
-  },
-  {
     question: "Em que estado brasileiro a FURIA nasceu?",
     correctAnswer: "São Paulo",
     incorrectAnswers: ["Rio de Janeiro", "Minas Gerais", "Paraná"],
-    difficulty: "easy",
-  },
-  {
-    question: "Qual ex-jogador da FURIA foi promovido da FURIA Academy?",
-    correctAnswer: "Honda",
-    incorrectAnswers: ["chelo", "ableJ", "saffee"],
-    difficulty: "hard",
-  },
-  {
-    question: "Quantos brasileiros estavam no elenco principal da FURIA em 2024?",
-    correctAnswer: "5",
-    incorrectAnswers: ["4", "3", "6"],
     difficulty: "easy",
   },
     {
@@ -183,12 +129,6 @@ export const questions: {
       correctAnswer: "IEM Rio 2022",
       incorrectAnswers: ["ESL Pro League 17", "PGL Major Antwerp", "Blast Fall Final"],
       difficulty: "hard",
-    },
-    {
-      question: "Qual desses conteúdos a FURIA já produziu em seu canal?",
-      correctAnswer: "Todos os anteriores",
-      incorrectAnswers: ["Série documental", "Reality show", "Vlogs de treino"],
-      difficulty: "easy",
     },
     {
       question: "Quem foi o primeiro AWPer fixo da FURIA?",

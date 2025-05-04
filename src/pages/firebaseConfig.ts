@@ -14,7 +14,7 @@ let firebaseApp: FirebaseApp;
 
 try {
   firebaseApp = getApp();
-} catch (e) {
+} catch {
   firebaseApp = initializeApp(firebaseConfig);
 }
 
