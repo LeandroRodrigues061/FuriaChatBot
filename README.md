@@ -6,7 +6,7 @@ Uma aplicação feita para fãs da FURIA! Um Quiz dinâmico, com tipos de nívei
 
 ## Funcionalidades Principais
 * Chat interativo com o bot de perguntas.
-* Seleção de dificuldade (Fácil e Difícil).
+* Seleção de dificuldade (Fácil e Difícil) com 15 perguntas em cada dificuladade para testar seus conhecimentos sobre a Furia.
 * Embaralhamento das perguntas.
 * Embaralhamento das opções de resposta por pergunta.
 * Feedback imediato após cada resposta.
